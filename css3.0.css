@@ -1,0 +1,39 @@
+div.a {
+  text-align:right;
+} 
+div.b {
+  text-align:center;
+} 
+img {
+  width: 500px;
+  margin: auto;
+  
+}
+p.c {
+  white-space: pre;
+}
+h1 { 
+  border: 5px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 20px;
+  margin-left: 180px;
+  background-color: gray;
+}
+h1 {font-family: "Times New Roman", Times, serif;
+color: lightgray ;}
+
+h2 {font-family: "Times New Roman", Times, serif;
+color:gray ;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+body{ background-color: white;}
+table, th, tr, td {border-style: solid ;
+border:1px solid black}
+div.culoare {
+	border: 1px solid gray;
+	border-color:gray;
+	background-color:lightgray;
+}
